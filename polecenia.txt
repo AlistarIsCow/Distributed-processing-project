@@ -1,0 +1,5 @@
+kompilowanie:
+	mpic++ watek.cpp main.cpp -o main
+
+uruchamianie:
+	mpirun-vms -np 3 ./main 3 2 | tee dane.txt

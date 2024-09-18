@@ -1,0 +1,226 @@
+[2] Zegar: 21 Zepsulem sie, zadam mechanikow 5 i doku, wysylam REQ
+[2] Zegar: 25 Dostalem wszystkie ACK 
+[2] Zegar: 26 2.21 
+[2] Zegar: 27 Dostalem dok
+[2] Zegar: 28 Dostalem mechanikow
+[2] Zegar: 28 Przede mna jest 0 mechanikow
+[2] Zegar: 29 Naprawiam sie
+[0] Zegar: 23 Zepsulem sie, zadam mechanikow 5 i doku, wysylam REQ
+[1] Zegar: 23 Zepsulem sie, zadam mechanikow 5 i doku, wysylam REQ
+[0] Zegar: 34 Dostalem wszystkie ACK 
+[0] Zegar: 35 2.21 0.23 1.23 
+[0] Zegar: 35 Nie dostalem doku, czekam na RELEASE
+[0] Zegar: 35 Jestem 2 w kolejce, 
+[0] Zegar: 35 Przede mna jest 5 mechanikow
+[1] Zegar: 35 Dostalem wszystkie ACK 
+[1] Zegar: 36 2.21 0.23 1.23 
+[1] Zegar: 36 Nie dostalem doku, czekam na RELEASE
+[1] Zegar: 36 Jestem 3 w kolejce, 
+[1] Zegar: 36 Przede mna jest 10 mechanikow
+[0] Zegar: 36 Dostalem RELEASE
+[0] Zegar: 38 0.23 1.23 
+[0] Zegar: 39 Dostalem dok
+[0] Zegar: 40 Dostalem mechanikow
+[0] Zegar: 40 Przede mna jest 0 mechanikow
+[0] Zegar: 41 Naprawiam sie
+[2] Zegar: 31 Naprawilem siê, rozsylam RELEASE
+[2] Zegar: 32 Zwolnilem zasoby
+[1] Zegar: 37 Dostalem RELEASE
+[1] Zegar: 39 0.23 1.23 
+[1] Zegar: 39 Nie dostalem doku, czekam na RELEASE
+[1] Zegar: 39 Jestem 2 w kolejce, 
+[1] Zegar: 39 Przede mna jest 5 mechanikow
+[0] Zegar: 41 Naprawilem siê, rozsylam RELEASE
+[0] Zegar: 42 Zwolnilem zasoby
+[1] Zegar: 42 Dostalem RELEASE
+[1] Zegar: 44 1.23 
+[1] Zegar: 45 Dostalem dok
+[1] Zegar: 46 Dostalem mechanikow
+[1] Zegar: 46 Przede mna jest 0 mechanikow
+[1] Zegar: 47 Naprawiam sie
+[2] Zegar: 42 Dostalem RELEASE
+[2] Zegar: 44 Zepsulem sie, zadam mechanikow 5 i doku, wysylam REQ
+[2] Zegar: 51 Dostalem wszystkie ACK 
+[2] Zegar: 52 1.23 2.44 
+[2] Zegar: 52 Nie dostalem doku, czekam na RELEASE
+[2] Zegar: 52 Jestem 2 w kolejce, 
+[2] Zegar: 52 Przede mna jest 5 mechanikow
+[0] Zegar: 46 Zepsulem sie, zadam mechanikow 5 i doku, wysylam REQ
+[0] Zegar: 56 Dostalem wszystkie ACK 
+[0] Zegar: 57 1.23 2.44 0.46 
+[0] Zegar: 57 Nie dostalem doku, czekam na RELEASE
+[0] Zegar: 57 Jestem 3 w kolejce, 
+[0] Zegar: 57 Przede mna jest 10 mechanikow
+[0] Zegar: 58 Dostalem RELEASE
+[0] Zegar: 60 2.44 0.46 
+[0] Zegar: 60 Nie dostalem doku, czekam na RELEASE
+[0] Zegar: 60 Jestem 2 w kolejce, 
+[0] Zegar: 60 Przede mna jest 5 mechanikow
+[1] Zegar: 49 Naprawilem siê, rozsylam RELEASE
+[1] Zegar: 50 Zwolnilem zasoby
+[2] Zegar: 54 Dostalem RELEASE
+[2] Zegar: 56 2.44 0.46 
+[2] Zegar: 57 Dostalem dok
+[2] Zegar: 58 Dostalem mechanikow
+[2] Zegar: 58 Przede mna jest 0 mechanikow
+[2] Zegar: 59 Naprawiam sie
+[1] Zegar: 51 Zepsulem sie, zadam mechanikow 5 i doku, wysylam REQ
+[1] Zegar: 64 Dostalem wszystkie ACK 
+[1] Zegar: 65 2.44 0.46 1.51 
+[1] Zegar: 65 Nie dostalem doku, czekam na RELEASE
+[1] Zegar: 65 Jestem 3 w kolejce, 
+[1] Zegar: 65 Przede mna jest 10 mechanikow
+[0] Zegar: 62 Dostalem RELEASE
+[0] Zegar: 64 0.46 1.51 
+[0] Zegar: 65 Dostalem dok
+[0] Zegar: 66 Dostalem mechanikow
+[0] Zegar: 66 Przede mna jest 0 mechanikow
+[0] Zegar: 67 Naprawiam sie
+[2] Zegar: 60 Naprawilem siê, rozsylam RELEASE
+[2] Zegar: 61 Zwolnilem zasoby
+[1] Zegar: 66 Dostalem RELEASE
+[1] Zegar: 68 0.46 1.51 
+[1] Zegar: 68 Nie dostalem doku, czekam na RELEASE
+[1] Zegar: 68 Jestem 2 w kolejce, 
+[1] Zegar: 68 Przede mna jest 5 mechanikow
+[0] Zegar: 67 Naprawilem siê, rozsylam RELEASE
+[0] Zegar: 68 Zwolnilem zasoby
+[1] Zegar: 69 Dostalem RELEASE
+[1] Zegar: 71 1.51 
+[1] Zegar: 72 Dostalem dok
+[1] Zegar: 73 Dostalem mechanikow
+[1] Zegar: 73 Przede mna jest 0 mechanikow
+[1] Zegar: 74 Naprawiam sie
+[2] Zegar: 68 Dostalem RELEASE
+[2] Zegar: 70 Zepsulem sie, zadam mechanikow 5 i doku, wysylam REQ
+[2] Zegar: 78 Dostalem wszystkie ACK 
+[2] Zegar: 79 1.51 2.70 
+[2] Zegar: 79 Nie dostalem doku, czekam na RELEASE
+[2] Zegar: 79 Jestem 2 w kolejce, 
+[2] Zegar: 79 Przede mna jest 5 mechanikow
+[1] Zegar: 75 Naprawilem siê, rozsylam RELEASE
+[1] Zegar: 76 Zwolnilem zasoby
+[0] Zegar: 76 Dostalem RELEASE
+[2] Zegar: 80 Dostalem RELEASE
+[2] Zegar: 82 2.70 
+[2] Zegar: 83 Dostalem dok
+[2] Zegar: 84 Dostalem mechanikow
+[2] Zegar: 84 Przede mna jest 0 mechanikow
+[2] Zegar: 85 Naprawiam sie
+[0] Zegar: 78 Zepsulem sie, zadam mechanikow 5 i doku, wysylam REQ
+[0] Zegar: 88 Dostalem wszystkie ACK 
+[0] Zegar: 89 2.70 0.78 
+[0] Zegar: 89 Nie dostalem doku, czekam na RELEASE
+[0] Zegar: 89 Jestem 2 w kolejce, 
+[0] Zegar: 89 Przede mna jest 5 mechanikow
+[1] Zegar: 80 Zepsulem sie, zadam mechanikow 5 i doku, wysylam REQ
+[1] Zegar: 92 Dostalem wszystkie ACK 
+[1] Zegar: 93 2.70 0.78 1.80 
+[1] Zegar: 93 Nie dostalem doku, czekam na RELEASE
+[1] Zegar: 93 Jestem 3 w kolejce, 
+[1] Zegar: 93 Przede mna jest 10 mechanikow
+[0] Zegar: 91 Dostalem RELEASE
+[0] Zegar: 93 0.78 1.80 
+[0] Zegar: 94 Dostalem dok
+[0] Zegar: 95 Dostalem mechanikow
+[0] Zegar: 95 Przede mna jest 0 mechanikow
+[0] Zegar: 96 Naprawiam sie
+[2] Zegar: 87 Naprawilem siê, rozsylam RELEASE
+[2] Zegar: 88 Zwolnilem zasoby
+[1] Zegar: 94 Dostalem RELEASE
+[1] Zegar: 96 0.78 1.80 
+[1] Zegar: 96 Nie dostalem doku, czekam na RELEASE
+[1] Zegar: 96 Jestem 2 w kolejce, 
+[1] Zegar: 96 Przede mna jest 5 mechanikow
+[2] Zegar: 89 Zepsulem sie, zadam mechanikow 5 i doku, wysylam REQ
+[2] Zegar: 100 Dostalem wszystkie ACK 
+[2] Zegar: 101 0.78 1.80 2.89 
+[2] Zegar: 101 Nie dostalem doku, czekam na RELEASE
+[2] Zegar: 101 Jestem 3 w kolejce, 
+[2] Zegar: 101 Przede mna jest 10 mechanikow
+[0] Zegar: 97 Naprawilem siê, rozsylam RELEASE
+[0] Zegar: 98 Zwolnilem zasoby
+[1] Zegar: 98 Dostalem RELEASE
+[1] Zegar: 100 1.80 2.89 
+[1] Zegar: 101 Dostalem dok
+[1] Zegar: 102 Dostalem mechanikow
+[1] Zegar: 102 Przede mna jest 0 mechanikow
+[1] Zegar: 103 Naprawiam sie
+[2] Zegar: 102 Dostalem RELEASE
+[2] Zegar: 104 1.80 2.89 
+[2] Zegar: 104 Nie dostalem doku, czekam na RELEASE
+[2] Zegar: 104 Jestem 2 w kolejce, 
+[2] Zegar: 104 Przede mna jest 5 mechanikow
+[0] Zegar: 99 Zepsulem sie, zadam mechanikow 5 i doku, wysylam REQ
+[0] Zegar: 107 Dostalem wszystkie ACK 
+[0] Zegar: 108 1.80 2.89 0.99 
+[0] Zegar: 108 Nie dostalem doku, czekam na RELEASE
+[0] Zegar: 108 Jestem 3 w kolejce, 
+[0] Zegar: 108 Przede mna jest 10 mechanikow
+[0] Zegar: 109 Dostalem RELEASE
+[0] Zegar: 111 2.89 0.99 
+[0] Zegar: 111 Nie dostalem doku, czekam na RELEASE
+[0] Zegar: 111 Jestem 2 w kolejce, 
+[0] Zegar: 111 Przede mna jest 5 mechanikow
+[1] Zegar: 104 Naprawilem siê, rozsylam RELEASE
+[1] Zegar: 105 Zwolnilem zasoby
+[2] Zegar: 106 Dostalem RELEASE
+[2] Zegar: 108 2.89 0.99 
+[2] Zegar: 109 Dostalem dok
+[2] Zegar: 110 Dostalem mechanikow
+[2] Zegar: 110 Przede mna jest 0 mechanikow
+[2] Zegar: 111 Naprawiam sie
+[0] Zegar: 112 Dostalem RELEASE
+[0] Zegar: 114 0.99 
+[0] Zegar: 115 Dostalem dok
+[0] Zegar: 116 Dostalem mechanikow
+[0] Zegar: 116 Przede mna jest 0 mechanikow
+[0] Zegar: 117 Naprawiam sie
+[2] Zegar: 111 Naprawilem siê, rozsylam RELEASE
+[2] Zegar: 112 Zwolnilem zasoby
+[1] Zegar: 112 Dostalem RELEASE
+[1] Zegar: 114 Zepsulem sie, zadam mechanikow 5 i doku, wysylam REQ
+[1] Zegar: 121 Dostalem wszystkie ACK 
+[1] Zegar: 122 0.99 1.114 
+[1] Zegar: 122 Nie dostalem doku, czekam na RELEASE
+[1] Zegar: 122 Jestem 2 w kolejce, 
+[1] Zegar: 122 Przede mna jest 5 mechanikow
+[0] Zegar: 118 Naprawilem siê, rozsylam RELEASE
+[0] Zegar: 119 Zwolnilem zasoby
+[1] Zegar: 123 Dostalem RELEASE
+[1] Zegar: 125 1.114 
+[1] Zegar: 126 Dostalem dok
+[1] Zegar: 127 Dostalem mechanikow
+[1] Zegar: 127 Przede mna jest 0 mechanikow
+[1] Zegar: 128 Naprawiam sie
+[2] Zegar: 119 Dostalem RELEASE
+[2] Zegar: 121 Zepsulem sie, zadam mechanikow 5 i doku, wysylam REQ
+[2] Zegar: 132 Dostalem wszystkie ACK 
+[2] Zegar: 133 1.114 2.121 
+[2] Zegar: 133 Nie dostalem doku, czekam na RELEASE
+[2] Zegar: 133 Jestem 2 w kolejce, 
+[2] Zegar: 133 Przede mna jest 5 mechanikow
+[0] Zegar: 130 Dostalem RELEASE
+[1] Zegar: 129 Naprawilem siê, rozsylam RELEASE
+[1] Zegar: 130 Zwolnilem zasoby
+[2] Zegar: 134 Dostalem RELEASE
+[2] Zegar: 136 2.121 
+[2] Zegar: 137 Dostalem dok
+[2] Zegar: 138 Dostalem mechanikow
+[2] Zegar: 138 Przede mna jest 0 mechanikow
+[2] Zegar: 139 Naprawiam sie
+[0] Zegar: 132 Zepsulem sie, zadam mechanikow 5 i doku, wysylam REQ
+[0] Zegar: 143 Dostalem wszystkie ACK 
+[0] Zegar: 144 2.121 0.132 
+[0] Zegar: 144 Nie dostalem doku, czekam na RELEASE
+[0] Zegar: 144 Jestem 2 w kolejce, 
+[0] Zegar: 144 Przede mna jest 5 mechanikow
+[0] Zegar: 145 Dostalem RELEASE
+[0] Zegar: 147 0.132 
+[0] Zegar: 148 Dostalem dok
+[0] Zegar: 149 Dostalem mechanikow
+[0] Zegar: 149 Przede mna jest 0 mechanikow
+[0] Zegar: 150 Naprawiam sie
+[2] Zegar: 140 Naprawilem siê, rozsylam RELEASE
+[2] Zegar: 141 Zwolnilem zasoby
+[1] Zegar: 141 Dostalem RELEASE
